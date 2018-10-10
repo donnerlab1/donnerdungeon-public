@@ -1,2 +1,5 @@
 # donnerdungeon-feedback
-feedback and documentation for donnerdungeon
+
+report feedback and bugs via issues
+
+this readme will be updated with more setup info
