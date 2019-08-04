@@ -1,5 +1,5 @@
-# donnerdungeon-feedback
+# donnerdungeon
 
 report feedback, ideas, balancing thoughts and bugs via issues
 
-this readme will be updated with more setup info
+Read the [wiki]("https://github.com/donnerlab1/donnerdungeon-public/wiki") for more information
